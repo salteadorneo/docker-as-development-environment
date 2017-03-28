@@ -1,5 +1,4 @@
 # Docker as development enviroment
----
 
 ## TODO
 1. Introduccción 
@@ -127,4 +126,4 @@ Por último ejecutaremos el comando `docker-compose build` en la ruta donde teng
 - `docker rmi <image_id>` Elimina las imagenes pasadas como argumento.
 - `docker exec -it <container_name> bash` Permite entrar en la cli de bash dentro del contenedor.
 
-## Probemos: GO ON!
+# Probemos: GO ON!
