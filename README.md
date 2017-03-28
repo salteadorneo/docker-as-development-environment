@@ -10,9 +10,7 @@
 
 ### ¿Docker?
 
-<center>
-	<img src="images/logo.png" width="400"/>
-</center>
+<img src="images/logo.png" width="400"/>
 
 > Open-source project that automates the deployment of software applications inside containers by providing an additional layer of abstraction and automation of OS-level virtualization. *[Wikipedia](https://en.wikipedia.org/wiki/Docker_(software))*
 
@@ -20,9 +18,7 @@ Herramienta que permite encapsular aplicaciones en un entorno unificado que cont
 
 ### ¿Qué es un contenedor?
 
-<center>
-	<img src="images/containers.png" width="300"/> <img src="images/vms.png"  width="300"/>
-</center>
+<img src="images/vs.png" width="600"/>
 
 Fragmento de software que contiene todo lo necesario para ejecutarse, garantizando un identico funcionamiento en cualquier entorno donde se ejecute.
 
