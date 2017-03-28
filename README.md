@@ -1,4 +1,4 @@
-# Docker as development enviroment
+# Docker as development environment
 
 ## TODO
 1. Introduccción 
