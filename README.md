@@ -44,10 +44,10 @@ https://www.docker.com/community-edition
 
 ## Crear nuestra propia imagen
 
-Todo los archivos necesarios estan en este [repo](https://github.com/lucasmenendez/docker-as-development-enviroment). Basta con clonarlo:
+Todo los archivos necesarios estan en este [repo](https://github.com/lucasmenendez/docker-as-development-environment). Basta con clonarlo:
 
 ```
-git clone https://github.com/lucasmenendez/docker-as-development-enviroment.git
+git clone https://github.com/lucasmenendez/docker-as-development-environment.git
 ```
 
 
